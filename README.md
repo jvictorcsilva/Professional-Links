@@ -38,4 +38,4 @@ Esse projeto está sob a licença MIT.
 
 ---
 
-Feito por João Victor Caravalho Silva
+Feito por João Victor Carvalho Silva
