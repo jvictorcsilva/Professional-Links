@@ -5,9 +5,9 @@ function toggleMode() {
   const img = document.querySelector("#profile img")
 
   if (html.classList.contains("light")) {
-    img.setAttribute("src", "assets/assets/jv-avatar-light.png")
+    img.setAttribute("src", "assets/assets/NewProfileLight.png")
   } else {
-    img.setAttribute("src", "assets/assets/jv-avatar-dark.png")
+    img.setAttribute("src", "assets/assets/NewProfileDark.png")
   }
 }
 

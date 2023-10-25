@@ -1,4 +1,6 @@
 @import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500&family=Luxurious+Roman&family=Noto+Sans:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500&family=Luxurious+Roman&family=Noto+Sans:wght@300&family=Roboto+Mono&display=swap");
+
 * {
   margin: 0;
   padding: 0;
@@ -53,11 +55,13 @@ body {
   display: block;
   margin: auto;
 }
+
 #profile p {
   margin-top: 8px;
   font-weight: 500;
   font-size: 16px;
   line-height: 24px;
+  font-family: "Roboto Mono", monospace;
 }
 /* SWITCH*/
 #switch {
