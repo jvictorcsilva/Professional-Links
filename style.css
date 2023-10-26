@@ -40,9 +40,9 @@ body {
 }
 
 #container {
-  margin: auto;
-  width: 360px;
-  margin-top: 56px;
+  margin: 56px auto 0px;
+  width: 100%;
+  max-width: 588px;
   padding-left: 0 24px;
 }
 #profile {
